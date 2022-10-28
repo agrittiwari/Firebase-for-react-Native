@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "342278790846",
+    "project_id": "tracking-application-19c1f",
+    "storage_bucket": "tracking-application-19c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342278790846:android:572196777b2ad9ed2dc8ef",
+        "android_client_info": {
+          "package_name": "com.dynamic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342278790846-363kc0229lo6k8i6c6ieaje7alsm2d3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHXgTxufUlaeZ6nk4L1VacmzdSlhBBSRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342278790846-363kc0229lo6k8i6c6ieaje7alsm2d3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342278790846:android:49e598d90e3edeca2dc8ef",
+        "android_client_info": {
+          "package_name": "com.dynamicLink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342278790846-363kc0229lo6k8i6c6ieaje7alsm2d3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHXgTxufUlaeZ6nk4L1VacmzdSlhBBSRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342278790846-363kc0229lo6k8i6c6ieaje7alsm2d3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
